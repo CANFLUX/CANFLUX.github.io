@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "CANFLUX.github.io"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - data.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CANFLUX",
+    "section": "",
+    "text": "About\nCANFLUX is … what was the consensus from the workshop??\n\nAmong other things, CANFLUX will be a centralized and standardized repository for Canadian Eddy Covariance Data"
+  },
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Data",
+    "section": "",
+    "text": "Access CANFLUX Data\n\nWould be pretty straightforward to put go ahead and host the downloaded AMERIFLUX data here until\n\n\n\nContribute to CANFLUX\n\nProcedures for collecting and hosting data are still being developed."
+  }
+]

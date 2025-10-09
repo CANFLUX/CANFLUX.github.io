@@ -1,0 +1,14 @@
+---
+title: "CANFLUX"
+subtitle: "A Canadian Eddy Covariance Research Network"
+---
+
+# About
+
+CANFLUX is ... what was the consensus from the workshop??  
+
+* *Among other things, CANFLUX will be a centralized and standardized repository for Canadian Eddy Covariance Data*
+
+
+
+
