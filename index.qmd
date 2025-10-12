@@ -1,14 +1,10 @@
 ---
-title: "CANFLUX"
-subtitle: "A Canadian Eddy Covariance Research Network"
+title: "Canada's Eddy Covariance Research Network"
 ---
 
 # About
 
 CANFLUX is ... what was the consensus from the workshop??  
 
-* *Among other things, CANFLUX will be a centralized and standardized repository for Canadian Eddy Covariance Data*
-
-
-
+*A network that links together n+ Eddy Covariance (EC) research sites across the Canada.  Among other things, CANFLUX aims to be a centralized and standardized repository for EC data sets.  The data CANFLUX provides will allow for more comprehensive monitoring of the movement of carbon, water, and energy through Canada's diverse ecosystems.* 
 

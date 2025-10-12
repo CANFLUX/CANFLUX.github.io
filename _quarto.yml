@@ -3,18 +3,18 @@ project:
   output-dir: docs
 
 website:
-  title: "CANFLUX.github.io"
+  title: "CANFLUX"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - data.qmd
+      - dataAccess.qmd
+      - dataContribution.qmd
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-
 
 

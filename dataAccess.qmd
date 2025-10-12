@@ -1,0 +1,8 @@
+---
+title: "Data Access"
+---
+
+* It would be pretty straightforward to go ahead and host the downloaded AMERIFLUX data here until something more comprehensive can be developed
+
+* The RShiny app could be embedded in this webpage, but if it becomes too large it could create a clunky user experience.
+    * A better approach may be to have a webmap with the sites, perhaps with a popup that gives a standardized summary of data, and a link to download the full datasets?

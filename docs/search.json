@@ -2,15 +2,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "CANFLUX",
+    "title": "Canada’s Eddy Covariance Research Network",
     "section": "",
-    "text": "About\nCANFLUX is … what was the consensus from the workshop??\n\nAmong other things, CANFLUX will be a centralized and standardized repository for Canadian Eddy Covariance Data"
+    "text": "About\nCANFLUX is … what was the consensus from the workshop??\nA network that links together n+ Eddy Covariance (EC) research sites across the Canada. Among other things, CANFLUX aims to be a centralized and standardized repository for EC data sets. The data CANFLUX provides will allow for more comprehensive monitoring of the movement of carbon, water, and energy through Canada’s diverse ecosystems."
   },
   {
-    "objectID": "data.html",
-    "href": "data.html",
-    "title": "Data",
+    "objectID": "dataAccess.html",
+    "href": "dataAccess.html",
+    "title": "Data Access",
     "section": "",
-    "text": "Access CANFLUX Data\n\nWould be pretty straightforward to put go ahead and host the downloaded AMERIFLUX data here until\n\n\n\nContribute to CANFLUX\n\nProcedures for collecting and hosting data are still being developed."
+    "text": "It would be pretty straightforward to go ahead and host the downloaded AMERIFLUX data here until something more comprehensive can be developed\nThe RShiny app could be embedded in this webpage, but if it becomes too large it could create a clunky user experience.\n\nA better approach may be to have a webmap with the sites, perhaps with a popup that gives a standardized summary of data, and a link to download the full datasets?"
+  },
+  {
+    "objectID": "dataContribution.html",
+    "href": "dataContribution.html",
+    "title": "Contribute to CANFLUX",
+    "section": "",
+    "text": "It would be pretty straightforward to go ahead and host the downloaded AMERIFLUX data here until something more comprehensive can be developed\nThe RShiny app could be embedded in this webpage, but if it becomes too large it could create a clunky user experience.\n\nA better approach may be to have a webmap with the sites, perhaps with a popup that gives a standardized summary of data, and a link to download the full datasets?\n\nProcedures for collecting and hosting data are still being developed."
   }
 ]
