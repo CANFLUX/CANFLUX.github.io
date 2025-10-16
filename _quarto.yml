@@ -7,8 +7,8 @@ website:
   navbar:
     left:
       - index.qmd
-      - dataAccess.qmd
-      - dataContribution.qmd
+      # - dataAccess.qmd
+      # - dataContribution.qmd
 
 format:
   html:
