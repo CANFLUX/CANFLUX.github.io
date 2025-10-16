@@ -1,0 +1,48 @@
+/*-- scss:defaults --*/
+
+// Base document colors
+$body-bg: #fff;
+$navbar-bg: #d9230f;
+$primary: #d9230f;
+
+/*-- scss:rules --*/
+
+//Navs
+
+.nav-link {
+       color: #e87b6f !important;
+    }
+    
+.nav-link:hover{
+  color: #e9eaec !important;
+}
+    
+.nav-link.active{
+  color: white !important;
+}
+
+.aa-SubmitIcon {
+    color: #e87b6f !important;
+}
+
+.aa-SubmitIcon:hover{
+  color: #e9eaec !important;
+}
+
+.breadcrumb {
+        display: none;
+    }
+	
+// Buttons
+
+.btn,
+.btn:active,
+.btn:focus,
+.btn.active,
+.btn:active:focus {
+   background-image: none;
+   outline: 0;
+   -webkit-box-shadow: none;
+   box-shadow: none;
+   outline: none !important;
+}
