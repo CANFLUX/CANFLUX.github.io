@@ -6,15 +6,25 @@ website:
   title: "CANFLUX"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
+      - index.qmd
       - dataAccess.qmd
       - dataContribution.qmd
 
 format:
   html:
-    theme: cosmo
+    theme:
+      - simplex
+      - custom.scss
     css: styles.css
     toc: true
 
 
+babelquarto:
+  languagecodes:
+  - name: en
+    text: "English"
+  - name: fr
+    text: "Français"
+  mainlanguage: 'en'
+  languages: ['fr']
+lang: en

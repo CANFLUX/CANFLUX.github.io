@@ -1,8 +1,13 @@
 ---
-title: "Canada's Eddy Covariance Research Network"
+title: "Home"
+template-partials:
+  - title-block.html
+toc: false
 ---
 
-# About
+# Canada's Eddy Covariance Research Network
+
+## About
 
 CANFLUX is ... what was the consensus from the workshop??  
 
