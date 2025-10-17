@@ -1,0 +1,8 @@
+---
+title: "News"
+---
+
+![](./images/workshop_group_photo_fall_2025.jpg){fig-align="center"}
+
+A big thanks to the <a href="https://www.linkedin.com/company/mcgillmssi/" target="_blank">McGill Sustainability Systems Initiative (MSSI)<a> for supporting the inaugural CanFlux Workshop through their Catalyst Grant. This workshop brought together researchers, government scientists, private sector stakeholders, Indigenous representatives, and policy makers to co-develop CanFlux – a revitalized national GHG flux observation network. Thanks to everyone who attended! And thanks to my amazing co-conveners Scott J. Davidson, Oliver Sonnentag, Michelle Garneau, Rosie Howard, Martina Schlaipfer, and Evan Henry. 
+

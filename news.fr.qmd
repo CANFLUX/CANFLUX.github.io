@@ -1,0 +1,8 @@
+---
+title: "Actualités"
+---
+
+![](./images/workshop_group_photo_fall_2025.jpg){fig-align="center"}
+
+Un grand merci à <a href="https://www.linkedin.com/company/mcgillmssi/" target="_blank">McGill Sustainability Systems Initiative (MSSI)<a> pour son soutien à l'atelier inaugural CanFlux grâce à sa subvention Catalyseur. Cet atelier a réuni des chercheurs, des scientifiques du gouvernement, des intervenants du secteur privé, des représentants autochtones et des décideurs politiques pour co-développer CanFlux – un réseau national revitalisé d'observation des flux de GES. Merci à tous les participants! Et merci à mes formidables co-organisateurs, Scott J. Davidson, Oliver Sonnentag, Michelle Garneau, Rosie Howard, Martina Schlaipfer et Evan Henry.
+
