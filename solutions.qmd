@@ -1,0 +1,4 @@
+## Solutions
+CanFlux will apply consistent approaches to quality control, gap-filling, and flux partitioning allowing comparability across sites and increasing their value for national inventories, remote-sensing validation, and ecosystem modelling. Moreover, sustained financial support for long-term data curation means essential observations are less vulnerable to loss due projects ending, funding lapses, or staff transition - significantly reducing the risk to Canada’s national monitoring capacity.
+
+![CanFlux: A national network to monitor and predict ecosystem-atmosphere interactions](./images/canflux_national_network.png){fig-align="center"}
