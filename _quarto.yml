@@ -10,7 +10,21 @@ website:
       - news.qmd
       # - dataAccess.qmd
       # - dataContribution.qmd
-
+  sidebar:
+    - id: home
+      title: "Home"
+      style: "floating"
+      collapse-level: 3
+      align: left
+      contents:
+        - href: index.qmd
+          text: Home
+        - href: history.qmd
+          text: History of Canadian Flux Networks
+        - href: solutions.qmd
+          text: Solutions
+          
+          
 format:
   html:
     theme:
