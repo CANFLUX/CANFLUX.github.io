@@ -15,7 +15,7 @@ Since Canadian ecosystems play a vital role in regulating the climate [by exchan
 ## How can CanFlux help?
 Ecosystem fluxes are commonly measured by installing instrumentation on “flux towers” (Figure 1) which tracks GHGs, temperature, and winds, ideally over annual to decadal timescales.
 
-![Figure 1: Flux towers for the [CARBONIQUE](https://carbonique.ca/en/){target="_blank"} project at (a) Lac-à-la-Tortue, QC (wooded natural bog); (b) Lac Saint-Pierre, QC (disturbed marsh); (c) Lac-à-la-Tortue, QC (open natural bog).](./images/flux_tower_examples.png){fig-align="center"}
+![Figure 1: Flux towers for the [CARBONIQUE](https://carbonique.ca/en/){target="_blank"} project at (a) Lac-à-la-Tortue, QC (wooded natural bog); (b) Lac Saint-Pierre, QC (disturbed marsh); (c) Lac-à-la-Tortue, QC (open natural bog).](./images/flux_tower_examples.png){fig-align="center" width=50%}
 
 This observed flux data can be used in many ways; to determine whether ecosystems are sources or sinks of carbon, and whether this changes over time; towards estimations of GHG concentrations in the atmosphere; towards government mandated reporting of GHG emissions; and to help develop and improve models predicting the future climate, to name an important few.
 
@@ -38,7 +38,7 @@ This observed flux data can be used in many ways; to determine whether ecosystem
  </iframe>
 </div>
 
-*Known Canadian flux towers for which coordinates are also known (135). <a href="https://rshiny.geog.mcgill.ca/knox/canflux/" target="_blank">View data visualization in separate window</a>.*
+*Historical and active Canadian flux towers for which coordinates are also known (135). <a href="https://rshiny.geog.mcgill.ca/knox/canflux/" target="_blank">View site information in separate window</a>.*
 
 * `CanFlux will provide the data and tools needed to track ecosystem responses to climate change, improve predictive models, and guide risk mitigation and sustainable management decisions.`
 
@@ -54,11 +54,13 @@ This observed flux data can be used in many ways; to determine whether ecosystem
 :::
 
 ## Mission
-**Consistent Data Processing**: CanFlux will apply consistent approaches to quality control, gap-filling, and flux partitioning allowing comparability across sites and increasing their value for national inventories, remote-sensing validation, and ecosystem modelling. 
+#### **Consistent Data Processing**
+CanFlux will apply consistent approaches to quality control, gap-filling, and flux partitioning allowing comparability across sites and increasing their value for national inventories, remote-sensing validation, and ecosystem modelling. 
 
-**Long-term Data Curation**: sustained financial support for long-term data curation means essential observations are less vulnerable to loss due projects ending, funding lapses, or staff transition - significantly reducing the risk to Canada’s national monitoring capacity.
+#### **Long-term Data Curation**
+Sustained financial support for long-term data curation means essential observations are less vulnerable to loss due to projects ending, funding lapses, or staff transition - significantly reducing the risk to Canada’s national monitoring capacity.
 
-![CanFlux: A national network to monitor and predict ecosystem-atmosphere interactions](./images/canflux_national_network.png){fig-align="center"}
+![CanFlux: A national network to monitor and predict ecosystem-atmosphere interactions](./images/canflux_national_network.png){fig-align="center" width=100%}
 
 <!-- ## History of Canadian Flux Networks -->
 <!-- Despite decades of scientific leadership, beginning with the pioneering [BOREAS](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/97JD03300){target="_blank"} experiment in the 1990s, continuing with [BERMS](https://water.usask.ca/berms/index.php){target="_blank"} in 1997, then Fluxnet-Canada, and more recently the [Canadian Carbon Program](https://www.sciencedirect.com/science/article/pii/S0168192312002109){target="_blank"}, Canada’s ecosystem–atmosphere monitoring capacity remains fragmented. These foundational programs established national benchmarks for flux science, produced long-term datasets that transformed understanding of temperate and boreal carbon and water cycling, and built a connected community of climate scientists, modellers, and technicians.  -->
