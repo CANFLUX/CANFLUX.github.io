@@ -21,8 +21,10 @@ website:
           text: Home
         - href: history.qmd
           text: History of Canadian Flux Networks
-        - href: solutions.qmd
-          text: Solutions
+        - href: effortsChallenges.qmd
+          text: Recent Efforts and Ongoing Challenges 
+        #- href: solutions.qmd
+        #  text: Solutions
           
           
 format:
