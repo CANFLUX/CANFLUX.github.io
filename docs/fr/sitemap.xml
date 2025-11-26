@@ -1,31 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>/fr/effortsChallenges.html</loc>
-    <lastmod>2025-11-20T21:48:34.765Z</lastmod>
-  </url>
-  <url>
-    <loc>/fr/solutions.html</loc>
-    <lastmod>2025-11-20T21:48:34.771Z</lastmod>
-  </url>
-  <url>
-    <loc>/fr/index.html</loc>
-    <lastmod>2025-11-20T21:48:34.771Z</lastmod>
-  </url>
-  <url>
-    <loc>/fr/dataAccess.html</loc>
-    <lastmod>2025-11-20T21:48:34.751Z</lastmod>
-  </url>
-  <url>
-    <loc>/fr/news.html</loc>
-    <lastmod>2025-11-20T21:48:34.771Z</lastmod>
-  </url>
-  <url>
-    <loc>/fr/dataContribution.html</loc>
-    <lastmod>2025-11-20T21:48:34.751Z</lastmod>
+    <loc>/fr/dataUseExamples.html</loc>
+    <lastmod>2025-11-26T22:15:16.248Z</lastmod>
   </url>
   <url>
     <loc>/fr/history.html</loc>
-    <lastmod>2025-11-20T21:48:34.766Z</lastmod>
+    <lastmod>2025-11-26T22:15:16.261Z</lastmod>
+  </url>
+  <url>
+    <loc>/fr/dataContribution.html</loc>
+    <lastmod>2025-11-26T22:15:16.247Z</lastmod>
+  </url>
+  <url>
+    <loc>/fr/news.html</loc>
+    <lastmod>2025-11-26T22:15:16.271Z</lastmod>
+  </url>
+  <url>
+    <loc>/fr/dataAccess.html</loc>
+    <lastmod>2025-11-26T22:15:16.247Z</lastmod>
+  </url>
+  <url>
+    <loc>/fr/index.html</loc>
+    <lastmod>2025-11-26T22:15:16.271Z</lastmod>
+  </url>
+  <url>
+    <loc>/fr/solutions.html</loc>
+    <lastmod>2025-11-26T22:15:16.271Z</lastmod>
+  </url>
+  <url>
+    <loc>/fr/effortsChallenges.html</loc>
+    <lastmod>2025-11-26T22:15:16.261Z</lastmod>
   </url>
 </urlset>

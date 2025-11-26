@@ -33,6 +33,17 @@ $primary: #d9230f;
         display: none;
     }
 	
+/* Added by Rosie to change the links in the main text to be black 
+as there are too many for them to be red!*/    
+main a:link {
+  color: black;
+}
+
+main a:hover {
+  color: gray;
+}
+
+
 // Buttons
 
 .btn,

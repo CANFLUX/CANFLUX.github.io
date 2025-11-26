@@ -23,8 +23,8 @@ website:
           text: History of Canadian Flux Networks
         - href: effortsChallenges.qmd
           text: Recent Efforts and Ongoing Challenges 
-        #- href: solutions.qmd
-        #  text: Solutions
+        - href: dataUseExamples.qmd
+          text: How can CanFlux Data be Used?
           
           
 format:
