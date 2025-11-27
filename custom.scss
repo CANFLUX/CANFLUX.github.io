@@ -43,6 +43,13 @@ main a:hover {
   color: gray;
 }
 
+main a {
+  &:visited {
+    color: gray; /* Color after the link has been visited */
+  }
+}
+
+
 
 // Buttons
 
