@@ -6,7 +6,7 @@ template-partials:
 back-to-top-navigation: true
 ---
 
-# CanFlux: Canada's Data Space for  Ecosystem–Climate Interactions
+# CanFlux: Canada's Data Space for Ecosystem–Climate Interactions
 
 CanFlux is a revitalized national network dedicated to measuring and understanding carbon, water, energy, and other exchanges between Canada’s diverse ecosystems and the atmosphere. These complex exchanges, also known as fluxes, are a critical factor in understanding climate change as they help determine the movement of greenhouse gases (GHGs) such as carbon dioxide (CO~2~), methane (CH~4~), nitrous oxide (N~2~O), and water vapour (H~2~O).
 
@@ -23,28 +23,28 @@ This observed flux data can be used in many ways; to determine whether ecosystem
 
 <!--:::{.callout-tip title="CanFlux Goals and Outcomes"}-->
 
-* CanFlux will develop a sovereign, community-governed data platform integrating greenhouse gas, water, and energy flux data with associated meteorological and hydrological measurements.
+* *CanFlux will develop a sovereign, community-governed data platform integrating greenhouse gas, water, and energy flux data with associated meteorological and hydrological measurements.*
 
-  *By compiling, processing, and storing data from at least 148 recently identified historical and active flux sites across Canada.*
+  By compiling, processing, and storing data from at least 148 recently identified historical and active flux sites across Canada. Our CanFlux Sites interactive map shows flux towers for which coordinates are also known (135). 
     
     <div style="overflow: hidden;padding-top: 75%; position: relative">
     <iframe src="https://rshiny.geog.mcgill.ca/knox/canflux/" title="Processes" scrolling="yes"   frameborder="0" style="border: 0; height: 100%; left: 0; position: absolute; top: 0; width: 100%;">
     <p>Your browser does not support iframes.</p></iframe>
     </div>
 
-    *Interactive map showing historical and active Canadian flux towers for which coordinates are also known (135). <a href="https://rshiny.geog.mcgill.ca/knox/canflux/" target="_blank">View site information in separate window</a>.*
+    <a href="https://rshiny.geog.mcgill.ca/knox/canflux/" target="_blank">View site information in separate window</a>.
 
-* CanFlux will provide the data and tools needed to track ecosystem responses to climate change, improve predictive models, and guide risk mitigation and sustainable management decisions.
+* *CanFlux will provide the data and tools needed to track ecosystem responses to climate change, improve predictive models, and guide risk mitigation and sustainable management decisions.*
 
-    *By integrating flux tower measurements, ground observations (e.g., using alternative measurement methods for carbon and water), remote sensing by satellites, and modelling.*
+    By integrating flux tower measurements, ground observations (e.g., using alternative measurement methods for carbon and water), remote sensing by satellites, and modelling.
 
-* CanFlux will strengthen Canada’s resilience and our capacity to anticipate and adapt to climate-related risks while advancing its climate goals through open, high-quality, and policy-relevant environmental observations.
+* *CanFlux will strengthen Canada’s resilience and our capacity to anticipate and adapt to climate-related risks while advancing its climate goals through open, high-quality, and policy-relevant environmental observations.*
 
-    *Rooted in collaboration among Canadian scientists, federal and provincial governments, Indigenous partners, NGOs, and the private sector.*
+    Rooted in collaboration among Canadian scientists, federal and provincial governments, Indigenous partners, NGOs, and the private sector.
 
-* CanFlux aims to enhance efforts to track GHG fluxes and advance Indigenous-led stewardship, nature-based climate solutions, carbon markets, and climate policy.
+* *CanFlux aims to enhance efforts to track GHG fluxes and advance Indigenous-led stewardship, nature-based climate solutions, carbon markets, and climate policy.*
 
-    *While Canada has a strong legacy of eddy covariance flux measurements, national coordination has waned since the end of [Fluxnet-Canada](https://www.earthdata.nasa.gov/data/catalog/ornl-cloud-fluxnet-canada-1335-1){target="_blank"} in 2014. As a result, valuable datasets remain underutilized due to fragmented infrastructure and limited long-term support.*
+    While Canada has a strong legacy of eddy covariance flux measurements, national coordination has waned since the end of [Fluxnet-Canada](https://www.earthdata.nasa.gov/data/catalog/ornl-cloud-fluxnet-canada-1335-1){target="_blank"} in 2014. As a result, valuable datasets remain underutilized due to fragmented infrastructure and limited long-term support.
 <!--:::-->
 
 ## Mission

@@ -1,5 +1,27 @@
 [
   {
+    "objectID": "dataUseExamples.html",
+    "href": "dataUseExamples.html",
+    "title": "CanFlux",
+    "section": "",
+    "text": "Some examples of how CanFlux data can be used include:\n\n\nA national-scale collaborative network of long-term flux measurements is demonstrably impactful. Such networks provide quantitative insights into ecosystem response to climate change including extreme events, and interannual variability and trends in ecosystem carbon and energy fluxes. The data collated by CanFlux will help to pose and answer research questions such as:\n\nHow and why does an ecosystem’s carbon uptake change over time?\nHow do land management and conservation practices affect carbon storage?\n\nWhat drives carbon uptake and release, and how does this vary across ecosystems?\nHow are fluxes affected by extreme events like forest fires, heatwaves, and droughts, of which the likelihood and intensity are increasing?\nHow do ecosystems respond and feedback to climate change?\n\n\n\n\nAs a multi-site network representing a wide range of Canadian ecosystems, CanFlux is pivotal in further developing and evaluating existing carbon models.\n\nThe Canadian Land Surface Scheme Including Biogeochemical Cycle (CLASSIC) simulates carbon and energy exchanges between ecosystems and the atmosphere and is used to quantify the impacts of climate change and land use on the carbon cycle. It has been validated on both local and global scales utilizing flux tower data, guided by an international benchmark system.\nThe Carbon Budget Model of the Canadian Forest Sector (CBM-CFS3) can incorporate over 200 pre-defined and customized disturbances, such as wildfires and deforestation, to estimate carbon stocks and quantify carbon transfer to the atmosphere as well as the forest products sector.\nThe Canadian Model for Peatlands (CaMP) is used to estimate carbon fluxes specifically for peatlands which make up ~12% of Canada’s land mass. CaMP has already been evaluated at 16 peatland sites across Canada, and further calibration and validation against high-quality, standardized data would be greatly beneficial.\n\nThere is an inherent synergy between carbon models and CanFlux observations, exemplified by the models themselves facilitating research, which in turn helps to identify areas where they need further development, improvement, and validation using flux tower data.\n\n\n\nCollectively, the carbon models briefly described are used by the Canadian government for national and international carbon monitoring, accounting, and reporting, including to the United Nations Framework Convention on Climate Change (UNFCCC).",
+    "crumbs": [
+      "Accueil",
+      "How can CanFlux Data be Used?"
+    ]
+  },
+  {
+    "objectID": "dataUseExamples.html#how-can-canflux-data-be-used",
+    "href": "dataUseExamples.html#how-can-canflux-data-be-used",
+    "title": "CanFlux",
+    "section": "",
+    "text": "Some examples of how CanFlux data can be used include:\n\n\nA national-scale collaborative network of long-term flux measurements is demonstrably impactful. Such networks provide quantitative insights into ecosystem response to climate change including extreme events, and interannual variability and trends in ecosystem carbon and energy fluxes. The data collated by CanFlux will help to pose and answer research questions such as:\n\nHow and why does an ecosystem’s carbon uptake change over time?\nHow do land management and conservation practices affect carbon storage?\n\nWhat drives carbon uptake and release, and how does this vary across ecosystems?\nHow are fluxes affected by extreme events like forest fires, heatwaves, and droughts, of which the likelihood and intensity are increasing?\nHow do ecosystems respond and feedback to climate change?\n\n\n\n\nAs a multi-site network representing a wide range of Canadian ecosystems, CanFlux is pivotal in further developing and evaluating existing carbon models.\n\nThe Canadian Land Surface Scheme Including Biogeochemical Cycle (CLASSIC) simulates carbon and energy exchanges between ecosystems and the atmosphere and is used to quantify the impacts of climate change and land use on the carbon cycle. It has been validated on both local and global scales utilizing flux tower data, guided by an international benchmark system.\nThe Carbon Budget Model of the Canadian Forest Sector (CBM-CFS3) can incorporate over 200 pre-defined and customized disturbances, such as wildfires and deforestation, to estimate carbon stocks and quantify carbon transfer to the atmosphere as well as the forest products sector.\nThe Canadian Model for Peatlands (CaMP) is used to estimate carbon fluxes specifically for peatlands which make up ~12% of Canada’s land mass. CaMP has already been evaluated at 16 peatland sites across Canada, and further calibration and validation against high-quality, standardized data would be greatly beneficial.\n\nThere is an inherent synergy between carbon models and CanFlux observations, exemplified by the models themselves facilitating research, which in turn helps to identify areas where they need further development, improvement, and validation using flux tower data.\n\n\n\nCollectively, the carbon models briefly described are used by the Canadian government for national and international carbon monitoring, accounting, and reporting, including to the United Nations Framework Convention on Climate Change (UNFCCC).",
+    "crumbs": [
+      "Accueil",
+      "How can CanFlux Data be Used?"
+    ]
+  },
+  {
     "objectID": "history.html",
     "href": "history.html",
     "title": "CanFlux",
@@ -22,13 +44,6 @@
     ]
   },
   {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "Actualités",
-    "section": "",
-    "text": "Un grand merci à McGill Sustainability Systems Initiative (MSSI) pour son soutien à l’atelier inaugural CanFlux grâce à sa subvention Catalyseur. Cet atelier a réuni des chercheurs, des scientifiques du gouvernement, des intervenants du secteur privé, des représentants autochtones et des décideurs politiques pour co-développer CanFlux – un réseau national revitalisé d’observation des flux de GES. Merci à tous les participants! Et merci à mes formidables co-organisateurs, Scott J. Davidson, Oliver Sonnentag, Michelle Garneau, Rosie Howard, Martina Schlaipfer et Evan Henry."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "CanFlux: Observations coordonnées des interactions écosystème-climat au Canada",
@@ -38,6 +53,34 @@
       "Accueil",
       "Home"
     ]
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "Actualités",
+    "section": "",
+    "text": "Un grand merci à McGill Sustainability Systems Initiative (MSSI) pour son soutien à l’atelier inaugural CanFlux grâce à sa subvention Catalyseur. Cet atelier a réuni des chercheurs, des scientifiques du gouvernement, des intervenants du secteur privé, des représentants autochtones et des décideurs politiques pour co-développer CanFlux – un réseau national revitalisé d’observation des flux de GES. Merci à tous les participants! Et merci à mes formidables co-organisateurs, Scott J. Davidson, Oliver Sonnentag, Michelle Garneau, Rosie Howard, Martina Schlaipfer et Evan Henry."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "CanFlux Leadership Team\nCanFlux Team\nScience Steering Committee\nIndigenous and Policy Engagement Committee"
+  },
+  {
+    "objectID": "about.html#people",
+    "href": "about.html#people",
+    "title": "About",
+    "section": "",
+    "text": "CanFlux Leadership Team\nCanFlux Team\nScience Steering Committee\nIndigenous and Policy Engagement Committee"
+  },
+  {
+    "objectID": "about.html#contact-us",
+    "href": "about.html#contact-us",
+    "title": "About",
+    "section": "Contact Us",
+    "text": "Contact Us\nFor any enquiries or more information, please contact ecofluxlab (at) gmail (dot) com.\nTo join our mailing list…"
   },
   {
     "objectID": "solutions.html",

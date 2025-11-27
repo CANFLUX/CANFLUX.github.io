@@ -25,7 +25,14 @@ website:
           text: Recent Efforts and Ongoing Challenges 
         - href: dataUseExamples.qmd
           text: How can CanFlux Data be Used?
-          
+  page-footer:
+    #left: |
+    #  &copy; 2025 
+    center: |
+      &copy; 2025 &nbsp; About Us | Contact
+    #  &copy; 2025 &nbsp; [About Us](about.qmd) | [Contact](about.qmd) 
+    #right: |
+    #  [About Us](about.qmd) | [Contact](contact.qmd)
           
 format:
   html:

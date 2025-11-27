@@ -2,7 +2,7 @@
 
 Some examples of how CanFlux data can be used include: 
 
-#### **To support climate research:**
+#### **To support climate research**
 
 A national-scale collaborative network of long-term flux measurements is [demonstrably impactful](https://www.sciencedirect.com/science/article/pii/S0168192324000443){target="_blank"}. Such networks provide quantitative insights into ecosystem response to climate change including extreme events, and interannual variability and trends in ecosystem carbon and energy fluxes. The data collated by CanFlux will help to pose and answer research questions such as: 
 
@@ -12,7 +12,7 @@ A national-scale collaborative network of long-term flux measurements is [demons
 * How are fluxes affected by extreme events like forest fires, heatwaves, and droughts, of which the likelihood and intensity are increasing? 
 * [How do ecosystems respond and feedback to climate change?](https://www.nature.com/articles/s41558-024-01933-3){target="_blank"}
 
-#### **To improve and validate carbon models:** 
+#### **To improve and validate carbon models** 
 
 As a multi-site network representing a wide range of Canadian ecosystems, CanFlux is pivotal in further developing and evaluating existing carbon models. 
 
@@ -24,7 +24,9 @@ As a multi-site network representing a wide range of Canadian ecosystems, CanFlu
 
 There is an inherent synergy between carbon models and CanFlux observations, exemplified by the models themselves [facilitating research](https://ostr-backend-prod.azure.cloud.nrcan-rncan.gc.ca/server/api/core/bitstreams/20b791cb-4110-40e0-a138-8897d4d3ecdb/content){target="_blank"}, which in turn helps to identify areas where they need further development, improvement, and validation using flux tower data. 
 
+<!--These carbon models are also globally relevant, ... ? -->
 
-#### **To inform policy changes:**
+
+#### **To inform policy changes**
 
 Collectively, the carbon models briefly described are used by the Canadian government for national and international carbon monitoring, accounting, and reporting, including to the [United Nations Framework Convention on Climate Change (UNFCCC)](https://unfccc.int/){target="_blank"}.  
