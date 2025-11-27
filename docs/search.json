@@ -2,20 +2,9 @@
   {
     "objectID": "dataUseExamples.html",
     "href": "dataUseExamples.html",
-    "title": "CanFlux",
+    "title": "How can CanFux Data be Used?",
     "section": "",
-    "text": "Some examples of how CanFlux data can be used include:\n\n\nA national-scale collaborative network of long-term flux measurements is demonstrably impactful. Such networks provide quantitative insights into ecosystem response to climate change including extreme events, and interannual variability and trends in ecosystem carbon and energy fluxes. The data collated by CanFlux will help to pose and answer research questions such as:\n\nHow and why does an ecosystem’s carbon uptake change over time?\nHow do land management and conservation practices affect carbon storage?\n\nWhat drives carbon uptake and release, and how does this vary across ecosystems?\nHow are fluxes affected by extreme events like forest fires, heatwaves, and droughts, of which the likelihood and intensity are increasing?\nHow do ecosystems respond and feedback to climate change?\n\n\n\n\nAs a multi-site network representing a wide range of Canadian ecosystems, CanFlux is pivotal in further developing and evaluating existing carbon models.\n\nThe Canadian Land Surface Scheme Including Biogeochemical Cycle (CLASSIC) simulates carbon and energy exchanges between ecosystems and the atmosphere and is used to quantify the impacts of climate change and land use on the carbon cycle. It has been validated on both local and global scales utilizing flux tower data, guided by an international benchmark system.\nThe Carbon Budget Model of the Canadian Forest Sector (CBM-CFS3) can incorporate over 200 pre-defined and customized disturbances, such as wildfires and deforestation, to estimate carbon stocks and quantify carbon transfer to the atmosphere as well as the forest products sector.\nThe Canadian Model for Peatlands (CaMP) is used to estimate carbon fluxes specifically for peatlands which make up ~12% of Canada’s land mass. CaMP has already been evaluated at 16 peatland sites across Canada, and further calibration and validation against high-quality, standardized data would be greatly beneficial.\n\nThere is an inherent synergy between carbon models and CanFlux observations, exemplified by the models themselves facilitating research, which in turn helps to identify areas where they need further development, improvement, and validation using flux tower data.\n\n\n\n\nCollectively, the carbon models briefly described are used by the Canadian government for national and international carbon monitoring, accounting, and reporting, including to the United Nations Framework Convention on Climate Change (UNFCCC).",
-    "crumbs": [
-      "Home",
-      "How can CanFlux Data be Used?"
-    ]
-  },
-  {
-    "objectID": "dataUseExamples.html#how-can-canflux-data-be-used",
-    "href": "dataUseExamples.html#how-can-canflux-data-be-used",
-    "title": "CanFlux",
-    "section": "",
-    "text": "Some examples of how CanFlux data can be used include:\n\n\nA national-scale collaborative network of long-term flux measurements is demonstrably impactful. Such networks provide quantitative insights into ecosystem response to climate change including extreme events, and interannual variability and trends in ecosystem carbon and energy fluxes. The data collated by CanFlux will help to pose and answer research questions such as:\n\nHow and why does an ecosystem’s carbon uptake change over time?\nHow do land management and conservation practices affect carbon storage?\n\nWhat drives carbon uptake and release, and how does this vary across ecosystems?\nHow are fluxes affected by extreme events like forest fires, heatwaves, and droughts, of which the likelihood and intensity are increasing?\nHow do ecosystems respond and feedback to climate change?\n\n\n\n\nAs a multi-site network representing a wide range of Canadian ecosystems, CanFlux is pivotal in further developing and evaluating existing carbon models.\n\nThe Canadian Land Surface Scheme Including Biogeochemical Cycle (CLASSIC) simulates carbon and energy exchanges between ecosystems and the atmosphere and is used to quantify the impacts of climate change and land use on the carbon cycle. It has been validated on both local and global scales utilizing flux tower data, guided by an international benchmark system.\nThe Carbon Budget Model of the Canadian Forest Sector (CBM-CFS3) can incorporate over 200 pre-defined and customized disturbances, such as wildfires and deforestation, to estimate carbon stocks and quantify carbon transfer to the atmosphere as well as the forest products sector.\nThe Canadian Model for Peatlands (CaMP) is used to estimate carbon fluxes specifically for peatlands which make up ~12% of Canada’s land mass. CaMP has already been evaluated at 16 peatland sites across Canada, and further calibration and validation against high-quality, standardized data would be greatly beneficial.\n\nThere is an inherent synergy between carbon models and CanFlux observations, exemplified by the models themselves facilitating research, which in turn helps to identify areas where they need further development, improvement, and validation using flux tower data.\n\n\n\n\nCollectively, the carbon models briefly described are used by the Canadian government for national and international carbon monitoring, accounting, and reporting, including to the United Nations Framework Convention on Climate Change (UNFCCC).",
+    "text": "Some examples of how CanFlux data can be used include:\n\nTo support climate research\nA national-scale collaborative network of long-term flux measurements is demonstrably impactful. Such networks provide quantitative insights into ecosystem response to climate change including extreme events, and interannual variability and trends in ecosystem carbon and energy fluxes. The data collated by CanFlux will help to pose and answer research questions such as:\n\nHow and why does an ecosystem’s carbon uptake change over time?\nHow do land management and conservation practices affect carbon storage?\n\nWhat drives carbon uptake and release, and how does this vary across ecosystems?\nHow are fluxes affected by extreme events like forest fires, heatwaves, and droughts, of which the likelihood and intensity are increasing?\nHow do ecosystems respond and feedback to climate change?\n\n\n\nTo improve and validate carbon models\nAs a multi-site network representing a wide range of Canadian ecosystems, CanFlux is pivotal in further developing and evaluating existing carbon models.\n\nThe Canadian Land Surface Scheme Including Biogeochemical Cycle (CLASSIC) simulates carbon and energy exchanges between ecosystems and the atmosphere and is used to quantify the impacts of climate change and land use on the carbon cycle. It has been validated on both local and global scales utilizing flux tower data, guided by an international benchmark system.\nThe Carbon Budget Model of the Canadian Forest Sector (CBM-CFS3) can incorporate over 200 pre-defined and customized disturbances, such as wildfires and deforestation, to estimate carbon stocks and quantify carbon transfer to the atmosphere as well as the forest products sector.\nThe Canadian Model for Peatlands (CaMP) is used to estimate carbon fluxes specifically for peatlands which make up ~12% of Canada’s land mass. CaMP has already been evaluated at 16 peatland sites across Canada, and further calibration and validation against high-quality, standardized data would be greatly beneficial.\n\nThere is an inherent synergy between carbon models and CanFlux observations, exemplified by the models themselves facilitating research, which in turn helps to identify areas where they need further development, improvement, and validation using flux tower data.\nThe union between CanFlux and Canadian carbon models is internationally relevant, for example, in global model intercomparisons such as the Global Methane Budget 2000–2020.\n\n\nTo inform policy changes\nCollectively, the carbon models briefly described are used by the Canadian government for national and international carbon monitoring, accounting, and reporting, including to the United Nations Framework Convention on Climate Change (UNFCCC).",
     "crumbs": [
       "Home",
       "How can CanFlux Data be Used?"
@@ -24,18 +13,7 @@
   {
     "objectID": "history.html",
     "href": "history.html",
-    "title": "CanFlux",
-    "section": "",
-    "text": "Despite decades of scientific leadership, beginning with the pioneering BOREAS experiment in the 1990s, continuing with BERMS in 1997, then Fluxnet-Canada, and more recently the Canadian Carbon Program, Canada’s ecosystem–atmosphere monitoring capacity remains fragmented.\nBOREAS and Fluxnet-Canada were concentrated largely south of 60°N, reflecting the technological limitations of the time; earlier instruments required high power, intensive maintenance, and year-round staffing that made Arctic deployment impractical. Recent advances in low-power, low-maintenance sensors now make long-term flux measurements feasible in remote and northern environments, opening the possibility of monitoring previously inaccessible regions that are among the most climate-sensitive in Canada.\n\nThese programs established national benchmarks for flux science, produced long-term datasets that transformed understanding of temperate and boreal carbon and water cycling, and built a connected community of climate scientists, modellers, and technicians, providing a strong foundation for CanFlux.",
-    "crumbs": [
-      "Home",
-      "History of Canadian Flux Networks"
-    ]
-  },
-  {
-    "objectID": "history.html#history-of-canadian-flux-networks",
-    "href": "history.html#history-of-canadian-flux-networks",
-    "title": "CanFlux",
+    "title": "History of Canadian Flux Networks",
     "section": "",
     "text": "Despite decades of scientific leadership, beginning with the pioneering BOREAS experiment in the 1990s, continuing with BERMS in 1997, then Fluxnet-Canada, and more recently the Canadian Carbon Program, Canada’s ecosystem–atmosphere monitoring capacity remains fragmented.\nBOREAS and Fluxnet-Canada were concentrated largely south of 60°N, reflecting the technological limitations of the time; earlier instruments required high power, intensive maintenance, and year-round staffing that made Arctic deployment impractical. Recent advances in low-power, low-maintenance sensors now make long-term flux measurements feasible in remote and northern environments, opening the possibility of monitoring previously inaccessible regions that are among the most climate-sensitive in Canada.\n\nThese programs established national benchmarks for flux science, produced long-term datasets that transformed understanding of temperate and boreal carbon and water cycling, and built a connected community of climate scientists, modellers, and technicians, providing a strong foundation for CanFlux.",
     "crumbs": [
@@ -98,11 +76,18 @@
     "text": "It would be pretty straightforward to go ahead and host the downloaded AMERIFLUX data here until something more comprehensive can be developed\nThe RShiny app could be embedded in this webpage, but if it becomes too large it could create a clunky user experience.\n\nA better approach may be to have a webmap with the sites, perhaps with a popup that gives a standardized summary of data, and a link to download the full datasets?"
   },
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "For inquiries or more information, please contact ecofluxlab (at) gmail (dot) com."
+  },
+  {
     "objectID": "news.html",
     "href": "news.html",
     "title": "News",
     "section": "",
-    "text": "A big thanks to the McGill Sustainability Systems Initiative (MSSI) for supporting the inaugural CanFlux Workshop through their Catalyst Grant. This workshop brought together researchers, government scientists, private sector stakeholders, Indigenous representatives, and policy makers to co-develop CanFlux – a revitalized national GHG flux observation network. Thanks to everyone who attended! And thanks to my amazing co-conveners Scott J. Davidson, Oliver Sonnentag, Michelle Garneau, Rosie Howard, Martina Schlaipfer, and Evan Henry.\nThis workshop engaged a broad community of researchers, Indigenous partners, government agencies, NGOs, and private-sector organizations to co-develop a shared vision for ecosystem-atmosphere flux measurements in Canada through a workshop. This CanFlux Coordination Workshop held on October 8-9, 2025 in Montreal served as an important first step in this process, bringing together more than 120 participants (~half in-person and half online) to define priorities for a scientifically rigorous, operationally sustainable, and Indigenous-partnered national flux network. Participants identified core scientific and policy needs; assessed infrastructure, data, training, and workforce requirements; and explored short-, medium-, and long-term funding and governance options."
+    "text": "A big thanks to the McGill Sustainability Systems Initiative (MSSI) for supporting the inaugural CanFlux Workshop through their Catalyst Grant. This workshop brought together researchers, government scientists, private sector stakeholders, Indigenous representatives, and policy makers to co-develop CanFlux – a revitalized national GHG flux observation network. Thanks to everyone who attended! And thanks to the co-conveners Sara Knox, Scott J. Davidson, Oliver Sonnentag, Michelle Garneau, Rosie Howard, Martina Schlaipfer, and Evan Henry.\nThis workshop engaged a broad community of researchers, Indigenous partners, government agencies, NGOs, and private-sector organizations to co-develop a shared vision for ecosystem-atmosphere flux measurements in Canada through a workshop. This CanFlux Coordination Workshop held on October 8-9, 2025 in Montreal served as an important first step in this process, bringing together more than 120 participants (~half in-person and half online) to define priorities for a scientifically rigorous, operationally sustainable, and Indigenous-partnered national flux network. Participants identified core scientific and policy needs; assessed infrastructure, data, training, and workforce requirements; and explored short-, medium-, and long-term funding and governance options."
   },
   {
     "objectID": "about.html",
@@ -119,41 +104,16 @@
     "text": "CanFlux Leadership Team\nCanFlux Team\nScience Steering Committee\nIndigenous and Policy Engagement Committee"
   },
   {
-    "objectID": "about.html#contact-us",
-    "href": "about.html#contact-us",
-    "title": "About",
-    "section": "Contact Us",
-    "text": "Contact Us\nFor any enquiries or more information, please contact ecofluxlab (at) gmail (dot) com.\nJoin our mailing list…"
-  },
-  {
     "objectID": "solutions.html",
     "href": "solutions.html",
-    "title": "CanFlux",
-    "section": "",
-    "text": "CanFlux will apply consistent approaches to quality control, gap-filling, and flux partitioning allowing comparability across sites and increasing their value for national inventories, remote-sensing validation, and ecosystem modelling. Moreover, sustained financial support for long-term data curation means essential observations are less vulnerable to loss due projects ending, funding lapses, or staff transition - significantly reducing the risk to Canada’s national monitoring capacity.\n\n\n\nCanFlux: A national network to monitor and predict ecosystem-atmosphere interactions"
-  },
-  {
-    "objectID": "solutions.html#solutions",
-    "href": "solutions.html#solutions",
-    "title": "CanFlux",
+    "title": "Solutions",
     "section": "",
     "text": "CanFlux will apply consistent approaches to quality control, gap-filling, and flux partitioning allowing comparability across sites and increasing their value for national inventories, remote-sensing validation, and ecosystem modelling. Moreover, sustained financial support for long-term data curation means essential observations are less vulnerable to loss due projects ending, funding lapses, or staff transition - significantly reducing the risk to Canada’s national monitoring capacity.\n\n\n\nCanFlux: A national network to monitor and predict ecosystem-atmosphere interactions"
   },
   {
     "objectID": "effortsChallenges.html",
     "href": "effortsChallenges.html",
-    "title": "CanFlux",
-    "section": "",
-    "text": "Since Summer 2025, in an effort to begin rebuilding a Canadian flux network, 148 historic and active flux sites have been identified across the country, representing at least 9 different ecosystems. \n\n\n\nDistribution of Canadian flux sites for which ecosystem/vegetation is known (111), currently based upon the Ameriflux IGBP definitions\n\n\nAlthough new regional and domain-specific initiatives - such as CARBONIQUE in Quebec, CanN2Onet for nitrous oxide fluxes, Can-Peat for peatland carbon cycling, and Wetlands as Natural Climate Solutions Network for freshwater mineral soil wetlands - are advancing important components of this national picture, Canada still lacks a coordinated, pan-Canadian flux network to represent and conserve this valuable resource.\nAll the sites are maintained primarily through individual research programs, each relying on heterogeneous instrumentation, metadata standards, and data-processing pipelines. Long-running time series remain vulnerable to loss due to precarious funding, limited technical capacity, and the absence of a national framework to support long-term data stewardship and interoperability.\nBecause flux sites across Canada currently operate with disparate instrumentation, uneven ecosystem representation, and limited long-term data support, producing integrated, policy-relevant assessments of terrestrial and aquatic GHG, water, and energy fluxes remains challenging. Many principal investigators are willing to share their data; nearly 70 sites already have data stored in Ameriflux, totalling 535 site-years of flux data representing the period 1994–2024.\nHowever, a lack of coordinated infrastructure, time, and technical capacity means that fewer than half of Canadian flux tower sites provide open, standardized datasets, leaving valuable time series inaccessible for synthesis or model integration. Additionally, as international data relationships continue to evolve, maintaining robust Canadian sovereignty and stewardship of climate data remains essential for national planning and collaboration.",
-    "crumbs": [
-      "Home",
-      "Recent Efforts and Ongoing Challenges"
-    ]
-  },
-  {
-    "objectID": "effortsChallenges.html#recent-efforts-and-ongoing-challenges",
-    "href": "effortsChallenges.html#recent-efforts-and-ongoing-challenges",
-    "title": "CanFlux",
+    "title": "Recent Efforts and Ongoing Challenges",
     "section": "",
     "text": "Since Summer 2025, in an effort to begin rebuilding a Canadian flux network, 148 historic and active flux sites have been identified across the country, representing at least 9 different ecosystems. \n\n\n\nDistribution of Canadian flux sites for which ecosystem/vegetation is known (111), currently based upon the Ameriflux IGBP definitions\n\n\nAlthough new regional and domain-specific initiatives - such as CARBONIQUE in Quebec, CanN2Onet for nitrous oxide fluxes, Can-Peat for peatland carbon cycling, and Wetlands as Natural Climate Solutions Network for freshwater mineral soil wetlands - are advancing important components of this national picture, Canada still lacks a coordinated, pan-Canadian flux network to represent and conserve this valuable resource.\nAll the sites are maintained primarily through individual research programs, each relying on heterogeneous instrumentation, metadata standards, and data-processing pipelines. Long-running time series remain vulnerable to loss due to precarious funding, limited technical capacity, and the absence of a national framework to support long-term data stewardship and interoperability.\nBecause flux sites across Canada currently operate with disparate instrumentation, uneven ecosystem representation, and limited long-term data support, producing integrated, policy-relevant assessments of terrestrial and aquatic GHG, water, and energy fluxes remains challenging. Many principal investigators are willing to share their data; nearly 70 sites already have data stored in Ameriflux, totalling 535 site-years of flux data representing the period 1994–2024.\nHowever, a lack of coordinated infrastructure, time, and technical capacity means that fewer than half of Canadian flux tower sites provide open, standardized datasets, leaving valuable time series inaccessible for synthesis or model integration. Additionally, as international data relationships continue to evolve, maintaining robust Canadian sovereignty and stewardship of climate data remains essential for national planning and collaboration.",
     "crumbs": [

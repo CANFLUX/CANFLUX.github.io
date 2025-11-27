@@ -1,4 +1,8 @@
-## How can CanFlux Data be Used?
+---
+title: "How can CanFux Data be Used?"
+---
+
+***
 
 Some examples of how CanFlux data can be used include: 
 
@@ -24,7 +28,7 @@ As a multi-site network representing a wide range of Canadian ecosystems, CanFlu
 
 There is an inherent synergy between carbon models and CanFlux observations, exemplified by the models themselves [facilitating research](https://ostr-backend-prod.azure.cloud.nrcan-rncan.gc.ca/server/api/core/bitstreams/20b791cb-4110-40e0-a138-8897d4d3ecdb/content){target="_blank"}, which in turn helps to identify areas where they need further development, improvement, and validation using flux tower data. 
 
-<!--These carbon models are also globally relevant, ... ? -->
+The union between CanFlux and Canadian carbon models is internationally relevant, for example, in global model intercomparisons such as the [Global Methane Budget 2000–2020](https://essd.copernicus.org/articles/17/1873/2025/essd-17-1873-2025.html){target="_blank"}. 
 
 
 #### **To inform policy changes**

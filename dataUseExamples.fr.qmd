@@ -1,4 +1,8 @@
-## How can CanFlux Data be Used?
+---
+title: "How can CanFux Data be Used?"
+---
+
+***
 
 Some examples of how CanFlux data can be used include: 
 

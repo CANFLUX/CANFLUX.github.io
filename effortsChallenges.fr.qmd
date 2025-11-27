@@ -1,4 +1,8 @@
-## Recent Efforts and Ongoing Challenges
+---
+title: "Recent Efforts and Ongoing Challenges"
+---
+
+***
 
 Since Summer 2025, in an effort to begin rebuilding a Canadian flux network, [148 historic and active flux sites](https://rshiny.geog.mcgill.ca/knox/canflux/){target="_blank"} have been identified across the country, representing at least 9 different ecosystems. <!--(Figure 2).-->
  
