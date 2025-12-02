@@ -28,9 +28,13 @@ As a multi-site network representing a wide range of Canadian ecosystems, CanFlu
 
 There is an inherent synergy between carbon models and CanFlux observations, exemplified by the models themselves [facilitating research](https://ostr-backend-prod.azure.cloud.nrcan-rncan.gc.ca/server/api/core/bitstreams/20b791cb-4110-40e0-a138-8897d4d3ecdb/content){target="_blank"}, which in turn helps to identify areas where they need further development, improvement, and validation using flux tower data. 
 
-The union between CanFlux and Canadian carbon models is internationally relevant, for example, in global model intercomparisons such as the [Global Methane Budget 2000–2020](https://essd.copernicus.org/articles/17/1873/2025/essd-17-1873-2025.html){target="_blank"}. 
+The union between CanFlux and Canadian carbon models is internationally relevant, for example, in global modelling efforts like the [TRENDY project](https://www.wdc-climate.de/ui/entry?acronym=DKRZ_LTA_891_dsg0001){target="_blank"} and model intercomparisons such as the [Global Methane Budget 2000–2020](https://essd.copernicus.org/articles/17/1873/2025/essd-17-1873-2025.html){target="_blank"}. 
 
 
 #### **To inform policy changes**
 
-Collectively, the carbon models briefly described are used by the Canadian government for national and international carbon monitoring, accounting, and reporting, including to the [United Nations Framework Convention on Climate Change (UNFCCC)](https://unfccc.int/){target="_blank"}.  
+Collectively, the carbon models briefly described are used by the Canadian government for national and international carbon monitoring, accounting, and reporting, including to the [United Nations Framework Convention on Climate Change (UNFCCC)](https://unfccc.int/){target="_blank"}, and the [Intergovernmental Panel on Climate Change (IPCC)](https://www.ipcc.ch/){target="_blank"} assessments, informing climate mitigation and adaptation policy.  
+
+
+<!-- 
+CLASSIC is a terrestrial biosphere model, which is a method of quantitatively representing the terrestrial biosphere to allow predictions to be made under changing environmental conditions. It contributes to international modelling efforts such as the TRENDY project and the Intergovernmental Panel on Climate Change (IPCC) assessments, which inform climate mitigation and adaptation policy. Eddy covariance flux tower data is essential for both model development and validation. New process representations are typically tested at individual tower sites using tower meteorological forcings, and simulated carbon, water and energy fluxes are evaluated against observations. Flux data is also central to CLASSIC’s benchmarking and validation pipeline, where it is used to assess model skill and guide improvements. -->
