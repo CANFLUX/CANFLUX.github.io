@@ -1,5 +1,5 @@
 ---
-title: "How can CanFux Data be Used?"
+title: "How can CanFlux Data be Used?"
 ---
 
 ***
