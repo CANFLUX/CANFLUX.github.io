@@ -1,12 +1,12 @@
 ---
-title: "About"
+title: "À propos"
 ---
 
-## People
+## Équipe
 
-* CanFlux Leadership Team 
-* CanFlux Team 
-* Science Steering Committee 
-* Indigenous and Policy Engagement Committee 
+* Équipe de direction de CanFlux
+* Équipe CanFlux
+* Comité directeur scientifique
+* Comité de mobilisation des Autochtones et des politiques
 
 

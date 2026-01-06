@@ -1,34 +1,35 @@
 ---
-title: "How can CanFlux Data be Used?"
+title: "Comment les données CanFux peuvent-elles être utilisées?"
 ---
 
 ***
 
-Some examples of how CanFlux data can be used include: 
+Voici quelques exemples d'utilisation des données CanFlux:
 
-#### **To support climate research**
+#### **Pour soutenir la recherche sur le climat**
 
-A national-scale collaborative network of long-term flux measurements is [demonstrably impactful](https://www.sciencedirect.com/science/article/pii/S0168192324000443){target="_blank"}. Such networks provide quantitative insights into ecosystem response to climate change including extreme events, and interannual variability and trends in ecosystem carbon and energy fluxes. The data collated by CanFlux will help to pose and answer research questions such as: 
+Un réseau collaboratif à l'échelle nationale de mesures de flux à long terme a un [impact manifeste](https://www.sciencedirect.com/science/article/pii/S0168192324000443){target="_blank"}. Ces réseaux fournissent des données quantitatives sur la réponse des écosystèmes aux changements climatiques, notamment aux événements extrêmes, ainsi que sur la variabilité interannuelle et les tendances des flux de carbone et d'énergie des écosystèmes. Les données recueillies par CanFlux contribueront à formuler et à répondre à des questions de recherche telles que:
 
-* [How and why does an ecosystem’s carbon uptake change over time?](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JG009128){target="_blank"}
-* [How do land management and conservation practices affect carbon storage?](https://www.nature.com/articles/s41612-024-00778-z){target="_blank"}  
-* What drives carbon uptake and release, and how does this vary across ecosystems? 
-* How are fluxes affected by extreme events like forest fires, heatwaves, and droughts, of which the likelihood and intensity are increasing? 
-* [How do ecosystems respond and feedback to climate change?](https://www.nature.com/articles/s41558-024-01933-3){target="_blank"}
+* [Comment et pourquoi l’absorption de carbone par un écosystème évolue-t-elle au fil du temps?](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JG009128){target="_blank"}
+* [Comment les pratiques de gestion et de conservation des terres influencent-elles le stockage du carbone?](https://www.nature.com/articles/s41612-024-00778-z){target="_blank"}  
+* Quels sont les facteurs qui déterminent l'absorption et l'émission de carbone, et comment cela varie-t-il d'un écosystème à l'autre?
+* Comment les flux sont-ils affectés par des événements extrêmes tels que les incendies de forêt, les vagues de chaleur et les sécheresses, dont la probabilité et l'intensité augmentent? 
+* [Comment les écosystèmes réagissent-ils et interagissent-ils avec le changement climatique?](https://www.nature.com/articles/s41558-024-01933-3){target="_blank"}
 
-#### **To improve and validate carbon models** 
+#### **Pour améliorer et valider les modèles de carbone** 
 
-As a multi-site network representing a wide range of Canadian ecosystems, CanFlux is pivotal in further developing and evaluating existing carbon models. 
+En tant que réseau multisite représentant un large éventail d'écosystèmes canadiens, CanFlux joue un rôle essentiel dans le développement et l'évaluation des modèles de carbone existants.
 
-* The [Canadian Land Surface Scheme Including Biogeochemical Cycle (CLASSIC)](https://cccma.gitlab.io/classic_pages/){target="_blank"} simulates carbon and energy exchanges between ecosystems and the atmosphere and is used to quantify the impacts of climate change and land use on the carbon cycle. It has been validated on both [local](https://gmd.copernicus.org/articles/13/2825/2020/){target="_blank"} and [global](https://gmd.copernicus.org/articles/14/2371/2021/){target="_blank"} scales utilizing flux tower data, guided by an [international benchmark system](https://cccma.gitlab.io/classic_pages/benchmarking/){target="_blank"}. 
+* Le [Modèle de schéma canadien de surface terrestre incluant les cycles biogéochimiques (CLASSIC)](https://cccma.gitlab.io/classic_pages/fr/){target="_blank"} simule les échanges de carbone et d'énergie entre les écosystèmes et l'atmosphère et sert à quantifier les impacts des changements climatiques et de l'utilisation des terres sur le cycle du carbone. Il a été validé à l'échelle [locale](https://gmd.copernicus.org/articles/13/2825/2020/){target="_blank"} et [mondiale](https://gmd.copernicus.org/articles/14/2371/2021/){target="_blank"} à partir de données de tours à flux, conformément à un [système de référence international](https://cccma.gitlab.io/classic_pages/benchmarking/){target="_blank"}. 
 
-* The [Carbon Budget Model of the Canadian Forest Sector (CBM-CFS3)](https://natural-resources.canada.ca/climate-change/climate-change-impacts-forests/carbon-budget-model){target="_blank"} can incorporate over 200 pre-defined and customized disturbances, such as wildfires and deforestation, to estimate carbon stocks and quantify carbon transfer to the atmosphere as well as the forest products sector.  
+* Le [Modèle du bilan du carbone du secteur forestier canadien (MBC-SFC3)](https://ressources-naturelles.canada.ca/changements-climatiques/changements-climatique-forets/modele-bilan-carbone?_gl=1*1c8xcqq*_ga*MTMyNzI2NjU4Ni4xNzQ5NjY1Mzc2*_ga_C2N57Y7DX5*czE3NjYwNzM5NjYkbzckZzAkdDE3NjYwNzM5NjYkajYwJGwwJGgw){target="_blank"} peut intégrer plus de 200 perturbations prédéfinies et personnalisées, telles que les feux de forêt et la déforestation, pour estimer les stocks de carbone et quantifier le transfert de carbone vers l'atmosphère ainsi que vers le secteur des produits forestiers.
 
-* The [Canadian Model for Peatlands (CaMP)](https://natural-resources.canada.ca/climate-change/forest-carbon/canadian-model-peatlands-camp){target="_blank"} is used to estimate carbon fluxes specifically for peatlands which [make up ~12% of Canada’s land mass](https://uwaterloo.ca/can-peat/news/peatlands-canadas-carbon-keepers){target="_blank"}. CaMP has already been [evaluated at 16 peatland sites](https://www.sciencedirect.com/science/article/pii/S0304380020302350){target="_blank"} across Canada, and further calibration and [validation against high-quality, standardized data would be greatly beneficial](https://link.springer.com/article/10.1007/s10533-023-01091-2){target="_blank"}.  
+* Le [Modèle canadien en matière de tourbières (MCaT)](https://ressources-naturelles.canada.ca/changements-climatiques/carbone-forestier/modele-canadien-matiere-tourbieres-mcat?_gl=1*ya2dqo*_ga*MTMyNzI2NjU4Ni4xNzQ5NjY1Mzc2*_ga_C2N57Y7DX5*czE3NjYwNzM5NjYkbzckZzEkdDE3NjYwNzQwMTgkajgkbDAkaDA.){target="_blank"} est utilisé pour estimer les flux de carbone spécifiquement pour les tourbières, qui [représentent environ 12 % de la superficie du Canada](https://uwaterloo.ca/can-peat/news/peatlands-canadas-carbon-keepers){target="_blank"}. MCaT a déjà été [évalué sur 16 sites de tourbières](https://www.sciencedirect.com/science/article/pii/S0304380020302350){target="_blank"} à travers le Canada, et un étalonnage et une [validation à l'aide de données standardisées de haute qualité seraient très bénéfiques](https://link.springer.com/article/10.1007/s10533-023-01091-2){target="_blank"}.  
 
-There is an inherent synergy between carbon models and CanFlux observations, exemplified by the models themselves [facilitating research](https://ostr-backend-prod.azure.cloud.nrcan-rncan.gc.ca/server/api/core/bitstreams/20b791cb-4110-40e0-a138-8897d4d3ecdb/content){target="_blank"}, which in turn helps to identify areas where they need further development, improvement, and validation using flux tower data. 
+Il existe une synergie inhérente entre les modèles de carbone et les observations de CanFlux, illustrée par les modèles eux-mêmes [facilitant la recherche](https://publications.gc.ca/collections/collection_2025/rncan-nrcan/Fo4-189-2025-fra.pdf){target="_blank"}, ce qui à son tour aide à identifier les domaines où ils nécessitent un développement, une amélioration et une validation supplémentaires à l'aide des données de tours à flux.
 
+L'union entre CanFlux et les modèles canadiens de carbone est pertinente à l'échelle internationale, par exemple dans les efforts de modélisation mondiaux comme le [projet TRENDY](https://www.wdc-climate.de/ui/entry?acronym=DKRZ_LTA_891_dsg0001){target="_blank"} et les intercomparaisons de modèles comme le [budget mondial du méthane 2000-2020](https://essd.copernicus.org/articles/17/1873/2025/essd-17-1873-2025.html){target="_blank"}.
 
-#### **To inform policy changes**
+#### **Pour éclairer les changements de politique**
 
-Collectively, the carbon models briefly described are used by the Canadian government for national and international carbon monitoring, accounting, and reporting, including to the [United Nations Framework Convention on Climate Change (UNFCCC)](https://unfccc.int/){target="_blank"}.  
+Collectivement, les modèles de carbone brièvement décrits sont utilisés par le gouvernement canadien pour la surveillance, la comptabilisation et la communication des émissions de carbone aux niveaux national et international, notamment aux évaluations de la [Convention-cadre des Nations Unies sur les changements climatiques (CCNUCC)](https://unfccc.int/fr){target="_blank"} et du [Groupe d'experts intergouvernemental sur l'évolution du climat (GIEC)](https://www.ipcc.ch/languages-2/francais/){target="_blank"} éclairant ainsi les politiques d'atténuation et d'adaptation au changement climatique.
