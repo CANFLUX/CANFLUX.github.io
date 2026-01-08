@@ -26,6 +26,20 @@ website:
           text: Recent Efforts and Ongoing Challenges 
         - href: dataUseExamples.qmd
           text: How can CanFlux Data be Used?
+    - id: accueil
+      title: "Accueil"
+      style: "floating"
+      collapse-level: 3
+      align: left
+      contents:
+        - href: index.qmd
+          text: Accueil
+        - href: history.qmd
+          text: Histoire des réseaux de flux canadiens
+        - href: effortsChallenges.qmd
+          text: Efforts récents et défis actuels 
+        - href: dataUseExamples.qmd
+          text: Comment les données CanFlux peuvent-elles être utilisées ?
   page-footer:
     #left: |
     #  &copy; 2025 

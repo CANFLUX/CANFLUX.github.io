@@ -3,6 +3,7 @@ title: "Accueil"
 template-partials:
   - title-block.html
 # toc: false
+sidebar: accueil
 ---
 
 # CanFlux : l’espace de données canadien sur les interactions écosystème-climat

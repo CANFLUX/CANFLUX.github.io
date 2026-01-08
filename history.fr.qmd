@@ -1,5 +1,6 @@
 ---
 title: "Histoire des réseaux de flux canadiens"
+sidebar: accueil
 ---
 
 ***

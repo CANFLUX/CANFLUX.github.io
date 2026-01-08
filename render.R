@@ -2,8 +2,8 @@
 ##########################
 
 ## specify location of GitHub directory
-#parent_dir <- "C:/Users/SCHLAIPFER_M/Documents/GitHub"
-parent_dir <- "/Users/rosie/Documents/Micromet/CANFLUX_Database/"
+parent_dir <- "C:/Users/SCHLAIPFER_M/Documents/GitHub"
+#parent_dir <- "/Users/rosie/Documents/Micromet/CANFLUX_Database/"
 
 ## specify name of website
 project_dir <- "CANFLUX.github.io"

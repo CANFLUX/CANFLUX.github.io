@@ -1,5 +1,6 @@
 ---
-title: "Comment les données CanFux peuvent-elles être utilisées?"
+title: "Comment les données CanFlux peuvent-elles être utilisées ?"
+sidebar: accueil
 ---
 
 ***

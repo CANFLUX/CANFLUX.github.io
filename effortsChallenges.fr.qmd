@@ -1,5 +1,6 @@
 ---
 title: Efforts récents et défis actuels
+sidebar: accueil
 ---
 
 ***
