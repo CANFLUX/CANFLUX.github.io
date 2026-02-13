@@ -5,7 +5,7 @@ sidebar: accueil
 
 ***
 
-Depuis l'été 2025, dans le cadre d'un effort de reconstruction d'un réseau canadien de mesure des flux, [148 sites de flux historiques et actifs](https://rshiny.geog.mcgill.ca/knox/canflux/){target="_blank"} ont été identifiés à travers le pays, représentant au moins 9 écosystèmes différents. <!--(Figure 2).-->
+Depuis l'été 2025, dans le cadre d'un effort de reconstruction d'un réseau canadien de mesure des flux, [174 sites de flux historiques et actifs](https://rshiny.geog.mcgill.ca/knox/canflux/){target="_blank"} ont été identifiés à travers le pays, représentant au moins 9 écosystèmes différents. <!--(Figure 2).-->
  
 ![Répartition des sites de flux canadiens pour lesquels l'écosystème et la végétation sont connus (111), actuellement basée sur les [définitions Ameriflux IGBP](https://ameriflux.lbl.gov/data/badm/badm-standards/IGBP){target="_blank"}](./images/distribution_flux_sites_canada.png){fig-align="center"}
 

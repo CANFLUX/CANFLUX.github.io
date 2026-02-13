@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>/fr/solutions.html</loc>
-    <lastmod>2026-01-08T18:27:55.860Z</lastmod>
-  </url>
-  <url>
-    <loc>/fr/index.html</loc>
-    <lastmod>2026-01-08T18:38:15.695Z</lastmod>
-  </url>
-  <url>
-    <loc>/fr/effortsChallenges.html</loc>
-    <lastmod>2026-01-08T18:38:37.331Z</lastmod>
-  </url>
-  <url>
-    <loc>/fr/dataContribution.html</loc>
-    <lastmod>2026-01-08T18:23:30.392Z</lastmod>
-  </url>
-  <url>
-    <loc>/fr/contact.html</loc>
-    <lastmod>2026-01-08T18:27:55.819Z</lastmod>
-  </url>
-  <url>
-    <loc>/fr/about.html</loc>
-    <lastmod>2026-01-08T18:27:55.819Z</lastmod>
-  </url>
-  <url>
-    <loc>/fr/dataAccess.html</loc>
-    <lastmod>2026-01-08T18:23:30.392Z</lastmod>
-  </url>
-  <url>
     <loc>/fr/dataUseExamples.html</loc>
-    <lastmod>2026-01-08T18:40:18.117Z</lastmod>
+    <lastmod>2026-02-13T15:58:42.778Z</lastmod>
   </url>
   <url>
     <loc>/fr/history.html</loc>
-    <lastmod>2026-01-08T18:39:05.240Z</lastmod>
+    <lastmod>2026-02-13T15:58:42.789Z</lastmod>
+  </url>
+  <url>
+    <loc>/fr/dataContribution.html</loc>
+    <lastmod>2026-02-13T15:58:42.778Z</lastmod>
+  </url>
+  <url>
+    <loc>/fr/index.html</loc>
+    <lastmod>2026-02-13T15:58:42.796Z</lastmod>
+  </url>
+  <url>
+    <loc>/fr/dataAccess.html</loc>
+    <lastmod>2026-02-13T15:58:42.778Z</lastmod>
+  </url>
+  <url>
+    <loc>/fr/contact.html</loc>
+    <lastmod>2026-02-13T15:58:42.778Z</lastmod>
   </url>
   <url>
     <loc>/fr/news.html</loc>
-    <lastmod>2026-01-08T18:27:55.859Z</lastmod>
+    <lastmod>2026-02-13T15:58:42.796Z</lastmod>
+  </url>
+  <url>
+    <loc>/fr/about.html</loc>
+    <lastmod>2026-02-13T15:58:42.778Z</lastmod>
+  </url>
+  <url>
+    <loc>/fr/solutions.html</loc>
+    <lastmod>2026-02-13T15:58:42.797Z</lastmod>
+  </url>
+  <url>
+    <loc>/fr/effortsChallenges.html</loc>
+    <lastmod>2026-02-13T15:58:42.789Z</lastmod>
   </url>
 </urlset>

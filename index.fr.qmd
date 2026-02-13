@@ -24,7 +24,7 @@ Ces données de flux observées peuvent être utilisées de nombreuses manières
 
 * *CanFlux développera une plateforme de données souveraine et gérée par la communauté, intégrant les données sur les flux de gaz à effet de serre, d'eau et d'énergie aux mesures météorologiques et hydrologiques associées.* 
 
-    En compilant, traitant et stockant des données provenant d’au moins 148 sites de flux historiques et actifs récemment identifiés à travers le Canada. 
+    En compilant, traitant et stockant des données provenant d’au moins 174 sites de flux historiques et actifs récemment identifiés à travers le Canada. 
     
     <div style="overflow: hidden;padding-top: 75%; position: relative">
     <iframe src="https://rshiny.geog.mcgill.ca/knox/canflux/" title="Processes" scrolling="yes"   frameborder="0" style="border: 0; height: 100%; left: 0; position: absolute; top: 0; width: 100%;">

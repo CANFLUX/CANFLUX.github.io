@@ -6,7 +6,7 @@ template-partials:
 back-to-top-navigation: true
 ---
 
-# CanFlux: Canada's Data Space for Ecosystem–Climate Interactions
+# CanFlux: Canada's Network for Ecosystem–Climate Interactions
 
 CanFlux is a revitalized national network dedicated to measuring and understanding carbon, water, energy, and other exchanges between Canada’s diverse ecosystems and the atmosphere. These complex exchanges, also known as fluxes, are a critical factor in understanding climate change as they help determine the movement of greenhouse gases (GHGs) such as carbon dioxide (CO~2~), methane (CH~4~), nitrous oxide (N~2~O), and water vapour (H~2~O).
 
@@ -25,7 +25,7 @@ This observed flux data can be used in many ways; to determine whether ecosystem
 
 * *CanFlux will develop a sovereign, community-governed data platform integrating greenhouse gas, water, and energy flux data with associated meteorological and hydrological measurements.*
 
-  By compiling, processing, and storing data from at least 148 recently identified historical and active flux sites across Canada. Our CanFlux Sites interactive map shows flux towers for which coordinates are also known (135). 
+  By compiling, processing, and storing data from at least 174 recently identified historical and active flux sites across Canada. Our CanFlux Sites interactive map shows flux towers for which coordinates are also known (166). 
     
     <div style="overflow: hidden;padding-top: 75%; position: relative">
     <iframe src="https://rshiny.geog.mcgill.ca/knox/canflux/" title="Processes" scrolling="yes"   frameborder="0" style="border: 0; height: 100%; left: 0; position: absolute; top: 0; width: 100%;">

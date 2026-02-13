@@ -5,7 +5,7 @@ title: "Recent Efforts and Ongoing Challenges"
 ***
 
 
-Since Summer 2025, in an effort to begin rebuilding a Canadian flux network, [148 historic and active flux sites](https://rshiny.geog.mcgill.ca/knox/canflux/){target="_blank"} have been identified across the country, representing at least 9 different ecosystems. <!--(Figure 2).-->
+Since Summer 2025, in an effort to begin rebuilding a Canadian flux network, [174 historic and active flux sites](https://rshiny.geog.mcgill.ca/knox/canflux/){target="_blank"} have been identified across the country, representing at least 9 different ecosystems. <!--(Figure 2).-->
  
 ![Distribution of Canadian flux sites for which ecosystem/vegetation is known (111), currently based upon the [Ameriflux IGBP definitions](https://ameriflux.lbl.gov/data/badm/badm-standards/IGBP){target="_blank"}](./images/distribution_flux_sites_canada.png){fig-align="center" width=80%}
 
